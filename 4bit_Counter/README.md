@@ -4,6 +4,8 @@
 
 A 4-bit counter with LEDS displaying 4-bit binary value along with dual 7 segment displays showing the decimal value. Powered with a 5v supply and has reset funcitonality. Documentatin for boolean logic available [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2900823549).
 
+[![IMAGE ALT TEXT](https://i9.ytimg.com/vi_webp/khBXeBu4q2U/mq2.webp?sqp=CITHs6wG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGE8gWyhlMA8=&rs=AOn4CLA_yfY_riORf3bUFIQqA_WrTN_k3w)](https://youtu.be/khBXeBu4q2U "Video Demo")
+
 ## Components
 
 ### ICs:
